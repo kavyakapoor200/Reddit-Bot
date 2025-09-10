@@ -31,10 +31,3 @@ Clone the repository:
 git clone https://github.com/<your-username>/reddit-posting-bot.git
 cd reddit-posting-bot
 
-
-reddit-posting-bot/
-│── reddit_bot.py         # Main bot script
-│── last_posted.json      # Auto-created when bot runs
-│── README.md             # Documentation
-│── requirements.txt      # Python dependencies
-│── .gitignore            # Ignore unnecessary files
