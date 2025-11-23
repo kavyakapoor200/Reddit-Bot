@@ -7,6 +7,9 @@ import praw
 import requests
 import json
 import re
+from dotenv import load_dotenv
+import os
+
 
 # === Mistral 7B Setup ===
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
